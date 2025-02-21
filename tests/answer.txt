@@ -1,0 +1,2 @@
+Câu lệnh để cài đặt email và name là: 
+ssh-keygen -t rsa -b 4096 -C "your_email@gmail.com"
